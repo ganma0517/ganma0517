@@ -1,12 +1,12 @@
 ### Hi, I'm Wen-Cheng Lin (林文正) 👋
 
 Postdoctoral research fellow at the **Institute of Sociology, Academia Sinica**,
-and a PhD student in **Political Science at National Chengchi University**.
+and a PhD in **Political Science at National Chengchi University**.
 My research focuses on political and social change in Taiwan and comparative
 politics. I build small **Stata visualization tools** for empirical and
 survey-experiment research.
 
-中央研究院社會學研究所博士後研究員、政治大學政治學系博士生。研究聚焦台灣政治社會變遷與比較政治，
+政治大學政治學系博士、中央研究院社會學研究所博士後研究員。研究聚焦台灣政治社會變遷與比較政治，
 並開發小型 **Stata 製圖工具**輔助實證與調查實驗研究。
 
 ---
