@@ -18,6 +18,7 @@ and survey-experiment research.
 | [**barttest**](https://github.com/ganma0517/stata_barttest) | Bar chart of group means + CI + pairwise t-test brackets | `github install ganma0517/stata_barttest` |
 | [**dumbbell**](https://github.com/ganma0517/stata_dumbbell) | Dumbbell (connected-dot) plot for two time points | `github install ganma0517/stata_dumbbell` |
 | [**betweenstats**](https://github.com/ganma0517/stata_betweenstats) | ggbetweenstats-style box/violin with overall test + brackets | `github install ganma0517/stata_betweenstats` |
+| [**panelline**](https://github.com/ganma0517/stata_panelline) | FT-style small-multiples line plot with end-point dots | `github install ganma0517/stata_panelline` |
 
 ➡️ Overview & all packages: **[stata-graphs](https://github.com/ganma0517/stata-graphs)**
 
