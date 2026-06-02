@@ -1,4 +1,4 @@
-### Hi, I'm Wen-Cheng Lin (林文正) 👋
+### Hi, I'm Wen-Cheng Lin
 
 PhD in **Political Science at National Chengchi University** and a postdoctoral
 research fellow at the **Institute of Sociology, Academia Sinica**. My research
