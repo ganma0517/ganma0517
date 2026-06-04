@@ -20,6 +20,7 @@ and survey-experiment research.
 | [**betweenstats**](https://github.com/ganma0517/stata_betweenstats) | ggbetweenstats-style box/violin with overall test + brackets | `github install ganma0517/stata_betweenstats` |
 | [**panelline**](https://github.com/ganma0517/stata_panelline) | FT-style small-multiples line plot with end-point dots | `github install ganma0517/stata_panelline` |
 | [**quadrant**](https://github.com/ganma0517/stata_quadrant) | Quadrant scatter plot with a four-quadrant reference cross | `github install ganma0517/stata_quadrant` |
+| [**mecatplot**](https://github.com/ganma0517/stata_mecatplot) | Per-category marginal effects + pairwise brackets + right-axis % bars | `github install ganma0517/stata_mecatplot` |
 
 ➡️ Overview & all packages: **[stata-graphs](https://github.com/ganma0517/stata-graphs)**
 
