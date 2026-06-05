@@ -29,6 +29,5 @@ and survey-experiment research.
 📫 **Contact:** beck740517@gmail.com
 🧪 Tools built in collaboration with Claude · experimental stage · MIT License
 
-#### 🔗 Links
 
 🎓 [Google Scholar](https://scholar.google.com.tw/citations?user=l90_UcUAAAAJ&hl=zh-TW) · 🌐 [Personal Website](https://ganma0517.github.io/WenCheng/)
