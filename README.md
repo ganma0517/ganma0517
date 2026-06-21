@@ -4,10 +4,13 @@ PhD in **Political Science at National Chengchi University** and a postdoctoral
 research fellow at the **Institute of Sociology, Academia Sinica**. My research
 focuses on political and social change in Taiwan and comparative politics, and I
 use **Claude** to develop small **Stata graphing tools** that support empirical
-and survey-experiment research.
+and survey-experiment research. I'm also building **literature-review tools**
+whose core goal is **reducing AI hallucination** — keeping every claim traceable
+to its source.
 
 政治大學政治學系博士、中央研究院社會學研究所博士後研究員。研究聚焦台灣政治社會變遷與比較政治，
-並使用 **Claude** 開發小型 **Stata 製圖工具**輔助實證與調查實驗研究。
+並使用 **Claude** 開發小型 **Stata 製圖工具**輔助實證與調查實驗研究；近期亦著手開發以
+**「降低 AI 幻覺」**為核心的**文獻檢閱工具**，要求每項論斷皆可回溯原文。
 
 ---
 
@@ -23,6 +26,19 @@ and survey-experiment research.
 | [**mecatplot**](https://github.com/ganma0517/stata_mecatplot) | Per-category marginal effects + pairwise brackets + right-axis % bars | `github install ganma0517/stata_mecatplot` |
 
 ➡️ Overview & all packages: **[stata-graphs](https://github.com/ganma0517/stata-graphs)**
+
+---
+
+#### 🔎 Literature / research tools — focus: reducing hallucination
+
+Experimental Claude Code skills for research workflows, built around verifiability
+and keeping AI hallucination low.
+實驗性質的研究輔助工具，核心是「可查證、降低幻覺」。
+
+| Tool | What it does | 說明 |
+|---|---|---|
+| [**literature-single-paper-decompose**](https://github.com/ganma0517/literature-single-paper-decompose) | Forensic single-paper close reading: every claim is grep-traceable to the source, and "what the paper states" is kept separate from "what the analyst inferred" | 單篇論文鑑識級精讀，每項論斷可回溯原文，明確區分本文明示與分析者詮釋 |
+| [**cross-ai-check**](https://github.com/ganma0517/cross-ai-check) | Cross-checks a conclusion with other AI models (ollama / gemini / codex) for an independent second opinion | 交由其他 AI 模型（ollama／gemini／codex）獨立交叉檢核，取得第二意見 |
 
 ---
 
