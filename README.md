@@ -43,6 +43,7 @@ and keeping AI hallucination low.
 |---|---|---|
 | [**literature-single-paper-decompose**](https://github.com/ganma0517/literature-single-paper-decompose) | Forensic single-paper close reading: every claim is grep-traceable to the source, and "what the paper states" is kept separate from "what the analyst inferred" | 單篇論文鑑識級精讀，每項論斷可回溯原文，明確區分本文明示與分析者詮釋 |
 | [**cross-ai-check**](https://github.com/ganma0517/cross-ai-check) | Cross-checks a conclusion with other AI models (ollama / gemini / codex) for an independent second opinion | 交由其他 AI 模型（ollama／gemini／codex）獨立交叉檢核，取得第二意見 |
+| [**literature-review-hardened**](https://github.com/ganma0517/literature-review-hardened) | Writes literature reviews under a "verify-first, never fabricate" regime: search before writing, per-claim citation verification, and an auditable Citation Verification Table | 「先查證、不捏造」的文獻綜述撰寫：先檢索再寫、逐筆 claim 引用查證，並附可稽核的引用查證表 |
 
 ---
 
