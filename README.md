@@ -14,7 +14,7 @@ to its source.
 
 **Contact:** beck740517@gmail.com · [Google Scholar](https://scholar.google.com.tw/citations?user=l90_UcUAAAAJ&hl=zh-TW) · [Personal Website](https://ganma0517.github.io/WenCheng/)
 
-**Anthropic:** [Claude 101](https://github.com/ganma0517/ganma0517/blob/main/certificates/claude-101.pdf) · [Cowork](https://github.com/ganma0517/ganma0517/blob/main/certificates/claude-cowork.pdf) · [Claude Code](https://github.com/ganma0517/ganma0517/blob/main/certificates/claude-code-101.pdf)
+**Anthropic:** [Claude 101](https://github.com/ganma0517/ganma0517/blob/main/certificates/claude-101.pdf) · [Cowork](https://github.com/ganma0517/ganma0517/blob/main/certificates/claude-cowork.pdf) · [Claude Code](https://github.com/ganma0517/ganma0517/blob/main/certificates/claude-code-101.pdf) · [AI Fluency](https://github.com/ganma0517/ganma0517/blob/main/certificates/ai-fluency.pdf)
 
 ---
 
