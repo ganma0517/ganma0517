@@ -14,7 +14,7 @@ to its source.
 
 **Contact:** beck740517@gmail.com · [Google Scholar](https://scholar.google.com.tw/citations?user=l90_UcUAAAAJ&hl=zh-TW) · [Personal Website](https://ganma0517.github.io/WenCheng/)
 
-**Certified:** [Anthropic — Claude 101](https://verify.skilljar.com/c/xrrb848vz4f9)
+**Certified:** [Anthropic — Claude 101](https://verify.skilljar.com/c/xrrb848vz4f9) · [Anthropic — Introduction to Claude](https://verify.skilljar.com/c/ern8zj4ea2a6)
 
 ---
 
