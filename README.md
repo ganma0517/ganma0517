@@ -12,9 +12,7 @@ to its source.
 並使用 **Claude** 開發小型 **Stata 製圖工具**輔助實證與調查實驗研究；近期亦著手開發以
 **「降低 AI 幻覺」**為核心的**文獻檢閱工具**，要求每項論斷皆可回溯原文。
 
-**Contact:** beck740517@gmail.com
-
-[Google Scholar](https://scholar.google.com.tw/citations?user=l90_UcUAAAAJ&hl=zh-TW) · [Personal Website](https://ganma0517.github.io/WenCheng/)
+**Contact:** beck740517@gmail.com · [Google Scholar](https://scholar.google.com.tw/citations?user=l90_UcUAAAAJ&hl=zh-TW) · [Personal Website](https://ganma0517.github.io/WenCheng/)
 
 **Certified:** [Anthropic — Claude 101](https://verify.skilljar.com/c/xrrb848vz4f9)
 
