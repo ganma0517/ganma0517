@@ -14,7 +14,7 @@ to its source.
 
 **Contact:** beck740517@gmail.com · [Google Scholar](https://scholar.google.com.tw/citations?user=l90_UcUAAAAJ&hl=zh-TW) · [Personal Website](https://ganma0517.github.io/WenCheng/)
 
-**Certificates:** [Stata](https://github.com/ganma0517/certificates/tree/main/Stata) · [Claude](https://github.com/ganma0517/certificates/tree/main/Claude)
+**Certificates:** [Stata](https://github.com/ganma0517/ganma0517/tree/main/stata) · [Claude](https://github.com/ganma0517/ganma0517/tree/main/claude)
 
 ---
 
