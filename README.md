@@ -1,20 +1,34 @@
-### Hi, I'm Wen-Cheng Lin
+<div align="center">
 
-PhD in **Political Science at National Chengchi University** and a postdoctoral
-research fellow at the **Institute of Sociology, Academia Sinica**. My research
-focuses on political and social change in Taiwan and comparative politics, and I
-use **Claude** to develop small **Stata graphing tools** that support empirical
-and survey-experiment research. I'm also building **literature-review tools**
-whose core goal is **reducing AI hallucination** — keeping every claim traceable
-to its source.
+# Wen-Cheng Lin
 
-政治大學政治學系博士、中央研究院社會學研究所博士後研究員。研究聚焦台灣政治社會變遷與比較政治，
-並使用 **Claude** 開發小型 **Stata 製圖工具**輔助實證與調查實驗研究；近期亦著手開發以
-**「降低 AI 幻覺」**為核心的**文獻檢閱工具**，要求每項論斷皆可回溯原文。
+Postdoctoral Research Fellow · Institute of Sociology, Academia Sinica
 
-**Contact:** beck740517@gmail.com · [Google Scholar](https://scholar.google.com.tw/citations?user=l90_UcUAAAAJ&hl=zh-TW) · [Personal Website](https://ganma0517.github.io/WenCheng/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:beck740517@gmail.com)
+&nbsp;
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com.tw/citations?user=l90_UcUAAAAJ&hl=zh-TW)
+&nbsp;
+[![Website](https://img.shields.io/badge/Website-222222?style=flat-square&logo=github&logoColor=white)](https://ganma0517.github.io/WenCheng/)
 
-**Certificates:** [Stata](https://github.com/ganma0517/ganma0517/tree/main/stata) · [Claude](https://github.com/ganma0517/ganma0517/tree/main/claude) · [AIEA](https://github.com/ganma0517/ganma0517/tree/main/aiea)
+</div>
+
+---
+
+PhD in Political Science (NCCU). Research focuses on political and social change in Taiwan and comparative politics. I use **Claude** to build **Stata graphing tools** for empirical and survey-experiment research, and am developing **literature-review tools** centered on **reducing AI hallucination** — keeping every claim traceable to its source.
+
+政治大學政治學系博士、中研院社會所博士後研究員。研究聚焦台灣政治社會變遷與比較政治；以 **Claude** 開發 **Stata 製圖工具**輔助實證與調查實驗研究，並著手建立以**「降低 AI 幻覺」**為核心的文獻檢閱工具，要求每項論斷皆可回溯原文。
+
+<div align="center">
+
+![Stata](https://img.shields.io/badge/Stata-1A4F73?style=flat-square&logoColor=white)
+&nbsp;
+![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)
+&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Certificates:** &nbsp;[Stata](https://github.com/ganma0517/ganma0517/tree/main/stata) · [Claude](https://github.com/ganma0517/ganma0517/tree/main/claude) · [AIEA](https://github.com/ganma0517/ganma0517/tree/main/aiea)
+
+</div>
 
 ---
 
@@ -35,8 +49,7 @@ to its source.
 
 #### 🔎 Literature / research tools — focus: reducing hallucination
 
-Experimental Claude Code skills for research workflows, built around verifiability
-and keeping AI hallucination low.
+Experimental Claude Code skills for research workflows, built around verifiability and keeping AI hallucination low.
 實驗性質的研究輔助工具，核心是「可查證、降低幻覺」。
 
 | Tool | What it does | 說明 |
