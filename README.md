@@ -61,4 +61,20 @@ Experimental Claude Code skills for research workflows, built around verifiabili
 
 ---
 
+#### 🎓 AI 專題課程 · 演講
+
+以人文社會科學為對象的 AI 應用課程與演講，聚焦把 AI 納入研究工作流程、並守住可查證與學科紀律。
+AI courses and talks for the humanities and social sciences — integrating AI into the research workflow while keeping every step verifiable.
+
+**AI 論文寫作工作坊** · 中央研究院（政治學研究所、社會學研究所合辦）· 2026-08-28
+
+| 時間 Time | 議程 Session | 講者 Speaker |
+|---|---|---|
+| 10:00–12:00 | 事故長出規則，規則長出信任：AI 工作流程的制度化 | 賴定佾（政治所） |
+| 14:00–16:00 | [不確定性與幻覺：人文社會科學如何應用 AI 技術](https://ganma0517.github.io/ai-hss-seminar/) | 林文正（社會所） |
+
+➡️ 我的場次互動簡報：[ai-hss-seminar](https://ganma0517.github.io/ai-hss-seminar/)
+
+---
+
 🧪 Tools built in collaboration with Claude · experimental stage · MIT License
