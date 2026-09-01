@@ -69,8 +69,8 @@ AI courses and talks for the humanities and social sciences — integrating AI i
 **AI 論文寫作工作坊** · 中央研究院（政治學研究所、社會學研究所合辦）· 2026-08-28
 ➡️ 簡報：[ai-hss-seminar](https://ganma0517.github.io/ai-hss-seminar/)
 
-**AI 研習講義 · 如何避免引用幻覺** · 2026-09-02
-➡️ 互動教學：[reference-cite-kiosk](https://ganma0517.github.io/reference-cite-kiosk/)
+**AI 研習講義** · 如何避免引用幻覺** · 2026-09-02
+➡️ 簡報：[reference-cite-kiosk](https://ganma0517.github.io/reference-cite-kiosk/)
 
 ---
 
