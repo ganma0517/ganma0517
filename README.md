@@ -14,7 +14,7 @@ Postdoctoral Research Fellow · Institute of Sociology, Academia Sinica
 
 ---
 
-PhD in Political Science (NCCU). Research focuses on political and social change in Taiwan and comparative politics. I use Claude to build Stata graphing tools for empirical and survey-experiment research, and am developing literature-review tools centered on reducing AI hallucination — keeping every claim traceable to its source.
+h.D. in Political Science, National Chengchi University/ Postdoctoral Fellow, Institute of Sociology, Academia Sinica. His research focuses on political and social change in Taiwan and comparative politics. He uses Claude to develop Stata graphing tools that support empirical and survey-experiment research, and is building a literature-review tool centered on reducing AI hallucination, requiring every claim to be traceable back to its original source..
 
 政治大學政治學系博士、中研院社會所博士後研究員。研究聚焦台灣政治社會變遷與比較政治；以 Claude 開發 Stata 製圖工具輔助實證與調查實驗研究，並著手建立以「降低 AI 幻覺」為核心的文獻檢閱工具，要求每項論斷皆可回溯原文。
 
