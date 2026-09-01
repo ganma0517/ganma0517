@@ -59,6 +59,7 @@ Experimental Claude Code skills for research workflows, built around verifiabili
 | [literature-review-hardened](https://github.com/ganma0517/literature-review-hardened) | Writes literature reviews under a "verify-first, never fabricate" regime: search before writing, per-claim citation verification, and an auditable Citation Verification Table | 「先查證、不捏造」的文獻綜述撰寫：先檢索再寫、逐筆 claim 引用查證，並附可稽核的引用查證表 |
 | [journal-style-writer](https://github.com/ganma0517/journal-style-writer) | Mines a target journal's papers into a reusable style knowledge base (BUILD), then polishes or translates a draft to match that journal's language conventions (APPLY) — every example sentence is grep-verifiable in the source | 從目標期刊論文提煉可重用的寫作風格資料庫（BUILD），再依此庫潤稿或中翻英（APPLY）；每條例句皆可回溯來源論文 |
 
+🧪 Tools built in collaboration with Claude · experimental stage · MIT License
 ---
 
 #### 🎓 AI 專題課程 · 演講
@@ -74,4 +75,4 @@ AI courses and talks for the humanities and social sciences — integrating AI i
 
 ---
 
-🧪 Tools built in collaboration with Claude · experimental stage · MIT License
+
