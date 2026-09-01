@@ -60,6 +60,7 @@ Experimental Claude Code skills for research workflows, built around verifiabili
 | [journal-style-writer](https://github.com/ganma0517/journal-style-writer) | Mines a target journal's papers into a reusable style knowledge base (BUILD), then polishes or translates a draft to match that journal's language conventions (APPLY) — every example sentence is grep-verifiable in the source | 從目標期刊論文提煉可重用的寫作風格資料庫（BUILD），再依此庫潤稿或中翻英（APPLY）；每條例句皆可回溯來源論文 |
 
 🧪 Tools built in collaboration with Claude · experimental stage · MIT License
+
 ---
 
 #### 🎓 AI 專題課程 · 演講
