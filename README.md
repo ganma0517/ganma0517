@@ -74,6 +74,7 @@ AI courses and talks for the humanities and social sciences — integrating AI i
 **AI 研習活動 · 如何避免引用幻覺** · 課程講義· 2026-09-02
 ➡️ 簡報：[reference-cite-kiosk](https://ganma0517.github.io/reference-cite-kiosk/)
 
+
 ---
 
 
