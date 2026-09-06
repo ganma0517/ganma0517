@@ -70,10 +70,10 @@ AI courses and talks for the humanities and social sciences — integrating AI i
 以人文社會科學為對象的 AI 應用課程與演講，聚焦把 AI 納入研究工作流程、並守住可查證與學科紀律。
 
 **AI 論文寫作工作坊** · 中央研究院（政治學、社會學研究所合辦）· 更新日期：2026-08-28
-➡️ [ai-hss-seminar](https://ganma0517.github.io/ai-hss-seminar/)
+➡️ [連結](https://ganma0517.github.io/ai-hss-seminar/)
 
 **AI 研習活動 · 如何避免引用幻覺** · 課程講義· 更新日期：2026-09-02
-➡️ [reference-cite-kiosk](https://ganma0517.github.io/reference-cite-kiosk/)
+➡️ [連結](https://ganma0517.github.io/reference-cite-kiosk/)
 
 
 ---
