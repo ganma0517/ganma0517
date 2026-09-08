@@ -75,6 +75,10 @@ AI courses and talks for the humanities and social sciences — integrating AI i
 **AI 研習活動 · 如何避免引用幻覺** · 課程講義· 
 ➡️ [連結](https://ganma0517.github.io/reference-cite-kiosk/) (2026-09-02)
 
+**Context Guardian** · Claude Code 上下文管理 skill 設計筆記 · 
+➡️ [連結](https://ganma0517.github.io/context-guardian-kiosk/) (2026-09-08)
+
+<img src="qr/context-guardian-kiosk.png" width="110" alt="Context Guardian QR code">
 
 ---
 
