@@ -75,7 +75,7 @@ AI courses and talks for the humanities and social sciences — integrating AI i
 **AI 研習活動 · 如何避免引用幻覺** · 課程講義· 
 ➡️ [連結](https://ganma0517.github.io/reference-cite-kiosk/) (2026-09-02)
 
-**上下文視窗溢出的管理筆記 · 
+**上下文視窗溢出的管理** · 設計筆記· 
 ➡️ [連結](https://ganma0517.github.io/context-guardian-kiosk/) (2026-09-08)
 
 ---
