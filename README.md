@@ -26,7 +26,7 @@ Ph.D. in Political Science, National Chengchi University/ Postdoctoral Fellow, I
 &nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-Certificates: &nbsp;[Stata](https://github.com/ganma0517/ganma0517/tree/main/stata) · [Claude](https://github.com/ganma0517/ganma0517/tree/main/claude) · [AIEA](https://github.com/ganma0517/ganma0517/tree/main/aiea)
+Certificates: &nbsp;[Stata](https://github.com/ganma0517/ganma0517/tree/main/stata) · [Claude](https://github.com/ganma0517/ganma0517/tree/main/claude) · [AIEA](https://github.com/ganma0517/ganma0517/tree/main/aiea) · [AIEA Associate 基礎認證](https://github.com/ganma0517/ganma0517/blob/main/aiea/AIEA%E8%AD%89%E6%9B%B8%E8%AD%89%E5%AD%97%E7%AC%ACEAA11510028%E8%99%9F.pdf)
 
 </div>
 
