@@ -79,15 +79,3 @@ AI courses and talks for the humanities and social sciences — integrating AI i
 ➡️ [連結](https://ganma0517.github.io/context-guardian-kiosk/) (2026-09-08)
 
 ---
-
-#### 🌐 EMI 教學專業發展
-
-**Reimagining EMI Practices: Scholarship, Innovation, and Collaboration**  
-2026 國際研討暨成果發表會 · 國立臺灣師範大學 EMI 教學資源中心  
-出席日期：2026-11-13，09:00–17:00。
-
-Certificate of attendance for the 2026 International Conference and Final Presentation, hosted by the NTNU Resource Center for EMI.
-
-➡️ [出席證明 / Certificate of Attendance](emi/20261113_NTNU_RCEMI_International_Symposium_Certificate_of_Attendance.pdf)
-
----
